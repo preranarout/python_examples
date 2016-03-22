@@ -1,5 +1,9 @@
 Steps
 
+Q) What is Git?
+
+A) Git is a version control software.
+
 NOTES:
 
 	- origin/master is the branch that is on the git server on the internet.
