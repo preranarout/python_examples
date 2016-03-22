@@ -27,3 +27,7 @@ NOTES:
 5) Push your changes to the git server -
 
 	git push origin <branch-name>
+	
+6) To get the latest git repository, use pull -
+
+	git pull origin <branch-name>
