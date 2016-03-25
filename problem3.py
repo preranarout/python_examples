@@ -1,6 +1,6 @@
 # Good job on the last one.
 # Create a folder called problem3 and copy the math library that you created in problem2 
-# and add square root and square root functions. After that is done, copy this file problem3.py
+# and add square root and square functions. After that is done, copy this file problem3.py
 # into that folder and call the functions of the math library. Ask the user for an input using
 # command line arguments (argparse) to specify whether the user wants to add, subtract, 
 # multiply, divide, perform square root or find the square of a number using a parameter.
